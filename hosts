@@ -1,134 +1,7 @@
-0.0.0.0 0-courier.push.apple.com
-0.0.0.0 0.courier-push-apple.com.akadns.net
-0.0.0.0 10-courier.push.apple.com
-0.0.0.0 10.courier-push-apple.com.akadns.net
-10-courier.sandbox.push.apple.com
-10.courier-sandbox-push-apple.com.akadns.net
-11-courier.push.apple.com
-11.courier-push-apple.com.akadns.net
-12-courier.push.apple.com
-12.courier-push-apple.com.akadns.net
-13-courier.push.apple.com
-13.courier-push-apple.com.akadns.net
-14-courier.push.apple.com
-14.courier-push-apple.com.akadns.net
-15-courier.push.apple.com
-15.courier-push-apple.com.akadns.net
-16-courier.push.apple.com
-16.courier-push-apple.com.akadns.net
-17-courier.push.apple.com
-17.courier-push-apple.com.akadns.net
-18-courier.push.apple.com
-18.courier-push-apple.com.akadns.net
-19-courier.push.apple.com
-19.courier-push-apple.com.akadns.net
-1-courier.push.apple.com
-1.courier-push-apple.com.akadns.net
-1-courier.sandbox.push.apple.com
-1.courier-sandbox-push-apple.com.akadns.net
-20-courier.push.apple.com
-20.courier-push-apple.com.akadns.net
-21-courier.push.apple.com
-21.courier-push-apple.com.akadns.net
-22-courier.push.apple.com
-22.courier-push-apple.com.akadns.net
-23-courier.push.apple.com
-23.courier-push-apple.com.akadns.net
-24-courier.push.apple.com
-24.courier-push-apple.com.akadns.net
-25-courier.push.apple.com
-25.courier-push-apple.com.akadns.net
-26-courier.push.apple.com
-26.courier-push-apple.com.akadns.net
-27-courier.push.apple.com
-27.courier-push-apple.com.akadns.net
-28-courier.push.apple.com
-28.courier-push-apple.com.akadns.net
-29-courier.push.apple.com
-29.courier-push-apple.com.akadns.net
-2-courier.push.apple.com
-2.courier-push-apple.com.akadns.net
-2-courier.sandbox.push.apple.com
-2.courier-sandbox-push-apple.com.akadns.net
-30-courier.push.apple.com
-30.courier-push-apple.com.akadns.net
-31-courier.push.apple.com
-31.courier-push-apple.com.akadns.net
-32-courier.push.apple.com
-32.courier-push-apple.com.akadns.net
-33-courier.push.apple.com
-33.courier-push-apple.com.akadns.net
-34-courier.push.apple.com
-34.courier-push-apple.com.akadns.net
-35-courier.push.apple.com
-35.courier-push-apple.com.akadns.net
-36-courier.push.apple.com
-36.courier-push-apple.com.akadns.net
-37-courier.push.apple.com
-37.courier-push-apple.com.akadns.net
-38-courier.push.apple.com
-38.courier-push-apple.com.akadns.net
-39-courier.push.apple.com
-39.courier-push-apple.com.akadns.net
-3-courier.push.apple.com
-3.courier-push-apple.com.akadns.net
-3-courier.sandbox.push.apple.com
-3.courier-sandbox-push-apple.com.akadns.net
-40-courier.push.apple.com
-40.courier-push-apple.com.akadns.net
-41-courier.push.apple.com
-41.courier-push-apple.com.akadns.net
-42-courier.push.apple.com
-42.courier-push-apple.com.akadns.net
-43-courier.push.apple.com
-43.courier-push-apple.com.akadns.net
-44-courier.push.apple.com
-44.courier-push-apple.com.akadns.net
-45-courier.push.apple.com
-45.courier-push-apple.com.akadns.net
-46-courier.push.apple.com
-46.courier-push-apple.com.akadns.net
-47-courier.push.apple.com
-47.courier-push-apple.com.akadns.net
-48-courier.push.apple.com
-48.courier-push-apple.com.akadns.net
-49-courier.push.apple.com
-49.courier-push-apple.com.akadns.net
-4-courier.push.apple.com
-4.courier-push-apple.com.akadns.net
-4-courier.sandbox.push.apple.com
-4.courier-sandbox-push-apple.com.akadns.net
-50-courier.push.apple.com
-50.courier-push-apple.com.akadns.net
-5-courier.push.apple.com
-5.courier-push-apple.com.akadns.net
-5-courier.sandbox.push.apple.com
-5.courier-sandbox-push-apple.com.akadns.net
-6-courier.push.apple.com
-6.courier-push-apple.com.akadns.net
-6-courier.sandbox.push.apple.com
-6.courier-sandbox-push-apple.com.akadns.net
-7-courier.push.apple.com
-7.courier-push-apple.com.akadns.net
-7-courier.sandbox.push.apple.com
-7.courier-sandbox-push-apple.com.akadns.net
-8-courier.push.apple.com
-8.courier-push-apple.com.akadns.net
-8-courier.sandbox.push.apple.com
-8.courier-sandbox-push-apple.com.akadns.net
-9-courier.push.apple.com
-9.courier-push-apple.com.akadns.net
-9-courier.sandbox.push.apple.com
-9.courier-sandbox-push-apple.com.akadns.net
 a1005.g.akamai.net
 a1015.g.akamai.net
-a1033.phobos.apple.com
-a1033.phobos.g.aaplimg.com
 a1047.phobos.apple.com
 a1051.b.akamai.net
-a1051.phobos.apple.com
-a1051.phobos.g.aaplimg.com
-a1076.phobos.apple.com
 a1089.d.akamai.net
 a1093.g.akamai.net
 a1102.g2.akamai.net
@@ -688,122 +561,122 @@ p23-fmfmobile.fe.apple-dns.net
 p23-fmfmobile.icloud.com
 p23-fmip.fe.apple-dns.net
 p23-fmip.icloud.com
-p23-keyvalueservice.fe.apple-dns.net
-p23-keyvalueservice.icloud.com
-p23-quota.fe.apple-dns.net
-p23-quota.icloud.com
-p23-streams.fe.apple-dns.net
-p23-streams.icloud.com
-p24-buy.itunes.apple.com
-p24-buy.itunes-apple.com.akadns.net
-p24-content.fe.apple-dns.net
-p24-content.icloud.com
-p25-buy.itunes.apple.com
-p25-buy.itunes-apple.com.akadns.net
-p25-content.fe.apple-dns.net
-p25-content.icloud.com
-p26-buy.itunes.apple.com
-p26-buy.itunes-apple.com.akadns.net
-p26-content.fe.apple-dns.net
-p26-content.icloud.com
-p27-content.fe.apple-dns.net
-p27-content.icloud.com
-p28-content.fe.apple-dns.net
-p28-content.icloud.com
-p29-buy.itunes.apple.com
-p29-buy.itunes-apple.com.akadns.net
-p29-calendars.fe.apple-dns.net
-p29-calendars.icloud.com
-p29-content.fe.apple-dns.net
-p29-content.icloud.com
-p30-buy.itunes.apple.com
-p30-buy.itunes-apple.com.akadns.net
-p30-contacts.fe.apple-dns.net
-p30-contacts.icloud.com
-p30-content.fe.apple-dns.net
-p30-content.icloud.com
-p30-escrowproxy.fe.apple-dns.net
-p30-escrowproxy.icloud.com
-p30-fmfmobile.fe.apple-dns.net
-p30-fmfmobile.icloud.com
-p30-keyvalueservice.fe.apple-dns.net
-p30-keyvalueservice.icloud.com
-p30-quota.fe.apple-dns.net
-p30-quota.icloud.com
-p31-buy.itunes.apple.com
-p31-buy.itunes-apple.com.akadns.net
-p31-content.fe.apple-dns.net
-p31-content.icloud.com
-p32-availability.fe.apple-dns.net
-p32-availability.icloud.com
-p32-buy.itunes.apple.com
-p32-buy.itunes-apple.com.akadns.net
-p32-ckdatabase.fe.apple-dns.net
-p32-ckdatabase.icloud.com
-p32-ckdevice.fe.apple-dns.net
-p32-ckdevice.icloud.com
-p32-content.fe.apple-dns.net
-p32-content.icloud.com
-p32-escrowproxy.fe.apple-dns.net
-p32-escrowproxy.icloud.com
-p32-fmfmobile.fe.apple-dns.net
-p32-fmfmobile.icloud.com
-p32-fmip.fe.apple-dns.net
-p32-fmip.icloud.com
-p32-keyvalueservice.fe.apple-dns.net
-p32-keyvalueservice.icloud.com
-p32-quota.fe.apple-dns.net
-p32-quota.icloud.com
-p33-content.fe.apple-dns.net
-p33-content.icloud.com
-p34-availability.fe.apple-dns.net
-p34-availability.icloud.com
-p34-caldav.fe.apple-dns.net
-p34-caldav.icloud.com
-p34-contacts.fe.apple-dns.net
-p34-contacts.icloud.com
-p34-content.fe.apple-dns.net
-p34-content.icloud.com
-p34-escrowproxy.fe.apple-dns.net
-p34-escrowproxy.icloud.com
-p34-fmf.fe.apple-dns.net
-p34-fmf.icloud.com
-p34-fmfmobile.fe.apple-dns.net
-p34-fmfmobile.icloud.com
-p34-fmip.fe.apple-dns.net
-p34-fmip.icloud.com
-p34-imap.mail.me.com.akadns.net
-p34-keyvalueservice.fe.apple-dns.net
-p34-keyvalueservice.icloud.com
-p34-mailws.icloud.com
-p34-mailws.icloud.com.akadns.net
-p34-quota.fe.apple-dns.net
-p34-quota.icloud.com
-p35-buy.itunes.apple.com
-p35-buy.itunes-apple.com.akadns.net
-p35-content.fe.apple-dns.net
-p35-content.icloud.com
-p36-buy.itunes.apple.com
-p36-buy.itunes-apple.com.akadns.net
-p36-content.fe.apple-dns.net
-p36-content.icloud.com
-p37-calendars.fe.apple-dns.net
-p37-calendars.icloud.com
-p37-content.fe.apple-dns.net
-p37-content.icloud.com
-p38-caldav.fe.apple-dns.net
-p38-caldav.icloud.com
-p38-ckcoderouter.fe.apple-dns.net
-p38-ckcoderouter.icloud.com
-p38-ckdatabase.fe.apple-dns.net
-p38-ckdatabase.icloud.com
-p38-ckdevice.fe.apple-dns.net
-p38-ckdevice.icloud.com
-p38-contacts.fe.apple-dns.net
-p38-contacts.icloud.com
-p38-content.fe.apple-dns.net
-p38-content.icloud.com
-p38-escrowproxy.fe.apple-dns.net
+0.0.0.0 p23-keyvalueservice.fe.apple-dns.net
+0.0.0.0 p23-keyvalueservice.icloud.com
+0.0.0.0 p23-quota.fe.apple-dns.net
+0.0.0.0 p23-quota.icloud.com
+0.0.0.0 p23-streams.fe.apple-dns.net
+0.0.0.0 p23-streams.icloud.com
+0.0.0.0 p24-buy.itunes.apple.com
+0.0.0.0 p24-buy.itunes-apple.com.akadns.net
+0.0.0.0 p24-content.fe.apple-dns.net
+0.0.0.0 p24-content.icloud.com
+0.0.0.0 p25-buy.itunes.apple.com
+0.0.0.0 p25-buy.itunes-apple.com.akadns.net
+0.0.0.0 p25-content.fe.apple-dns.net
+0.0.0.0 p25-content.icloud.com
+0.0.0.0 p26-buy.itunes.apple.com
+0.0.0.0 p26-buy.itunes-apple.com.akadns.net
+0.0.0.0 p26-content.fe.apple-dns.net
+0.0.0.0 p26-content.icloud.com
+0.0.0.0 p27-content.fe.apple-dns.net
+0.0.0.0 p27-content.icloud.com
+0.0.0.0 p28-content.fe.apple-dns.net
+0.0.0.0 p28-content.icloud.com
+0.0.0.0 p29-buy.itunes.apple.com
+0.0.0.0 p29-buy.itunes-apple.com.akadns.net
+0.0.0.0 p29-calendars.fe.apple-dns.net
+0.0.0.0 p29-calendars.icloud.com
+0.0.0.0 p29-content.fe.apple-dns.net
+0.0.0.0 p29-content.icloud.com
+0.0.0.0 p30-buy.itunes.apple.com
+0.0.0.0 p30-buy.itunes-apple.com.akadns.net
+0.0.0.0 p30-contacts.fe.apple-dns.net
+0.0.0.0 p30-contacts.icloud.com
+0.0.0.0 p30-content.fe.apple-dns.net
+0.0.0.0 p30-content.icloud.com
+0.0.0.0 p30-escrowproxy.fe.apple-dns.net
+0.0.0.0 p30-escrowproxy.icloud.com
+0.0.0.0 p30-fmfmobile.fe.apple-dns.net
+0.0.0.0 p30-fmfmobile.icloud.com
+0.0.0.0 p30-keyvalueservice.fe.apple-dns.net
+0.0.0.0 p30-keyvalueservice.icloud.com
+0.0.0.0 p30-quota.fe.apple-dns.net
+0.0.0.0 p30-quota.icloud.com
+0.0.0.0 p31-buy.itunes.apple.com
+0.0.0.0 p31-buy.itunes-apple.com.akadns.net
+0.0.0.0 p31-content.fe.apple-dns.net
+0.0.0.0 p31-content.icloud.com
+0.0.0.0 p32-availability.fe.apple-dns.net
+0.0.0.0 p32-availability.icloud.com
+0.0.0.0 p32-buy.itunes.apple.com
+0.0.0.0 p32-buy.itunes-apple.com.akadns.net
+0.0.0.0 p32-ckdatabase.fe.apple-dns.net
+0.0.0.0 p32-ckdatabase.icloud.com
+0.0.0.0 p32-ckdevice.fe.apple-dns.net
+0.0.0.0 p32-ckdevice.icloud.com
+0.0.0.0 p32-content.fe.apple-dns.net
+0.0.0.0 p32-content.icloud.com
+0.0.0.0 p32-escrowproxy.fe.apple-dns.net
+0.0.0.0 p32-escrowproxy.icloud.com
+0.0.0.0 p32-fmfmobile.fe.apple-dns.net
+0.0.0.0 p32-fmfmobile.icloud.com
+0.0.0.0 p32-fmip.fe.apple-dns.net
+0.0.0.0 p32-fmip.icloud.com
+0.0.0.0 p32-keyvalueservice.fe.apple-dns.net
+0.0.0.0 p32-keyvalueservice.icloud.com
+0.0.0.0 p32-quota.fe.apple-dns.net
+0.0.0.0 p32-quota.icloud.com
+0.0.0.0 p33-content.fe.apple-dns.net
+0.0.0.0 p33-content.icloud.com
+0.0.0.0 p34-availability.fe.apple-dns.net
+0.0.0.0 p34-availability.icloud.com
+0.0.0.0 p34-caldav.fe.apple-dns.net
+0.0.0.0 p34-caldav.icloud.com
+0.0.0.0 p34-contacts.fe.apple-dns.net
+0.0.0.0 p34-contacts.icloud.com
+0.0.0.0 p34-content.fe.apple-dns.net
+0.0.0.0 p34-content.icloud.com
+0.0.0.0 p34-escrowproxy.fe.apple-dns.net
+0.0.0.0 p34-escrowproxy.icloud.com
+0.0.0.0 p34-fmf.fe.apple-dns.net
+0.0.0.0 p34-fmf.icloud.com
+0.0.0.0 p34-fmfmobile.fe.apple-dns.net
+0.0.0.0 p34-fmfmobile.icloud.com
+0.0.0.0 p34-fmip.fe.apple-dns.net
+0.0.0.0 p34-fmip.icloud.com
+0.0.0.0 p34-imap.mail.me.com.akadns.net
+0.0.0.0 p34-keyvalueservice.fe.apple-dns.net
+0.0.0.0 p34-keyvalueservice.icloud.com
+0.0.0.0 p34-mailws.icloud.com
+0.0.0.0 p34-mailws.icloud.com.akadns.net
+0.0.0.0 p34-quota.fe.apple-dns.net
+0.0.0.0 p34-quota.icloud.com
+0.0.0.0 p35-buy.itunes.apple.com
+0.0.0.0 p35-buy.itunes-apple.com.akadns.net
+0.0.0.0 p35-content.fe.apple-dns.net
+0.0.0.0 p35-content.icloud.com
+0.0.0.0 p36-buy.itunes.apple.com
+0.0.0.0 p36-buy.itunes-apple.com.akadns.net
+0.0.0.0 p36-content.fe.apple-dns.net
+0.0.0.0 p36-content.icloud.com
+0.0.0.0 p37-calendars.fe.apple-dns.net
+0.0.0.0 p37-calendars.icloud.com
+0.0.0.0 p37-content.fe.apple-dns.net
+0.0.0.0 p37-content.icloud.com
+0.0.0.0 p38-caldav.fe.apple-dns.net
+0.0.0.0 p38-caldav.icloud.com
+0.0.0.0 p38-ckcoderouter.fe.apple-dns.net
+0.0.0.0 p38-ckcoderouter.icloud.com
+0.0.0.0 p38-ckdatabase.fe.apple-dns.net
+0.0.0.0 p38-ckdatabase.icloud.com
+0.0.0.0 p38-ckdevice.fe.apple-dns.net
+0.0.0.0 p38-ckdevice.icloud.com
+0.0.0.0 p38-contacts.fe.apple-dns.net
+0.0.0.0 p38-contacts.icloud.com
+0.0.0.0 p38-content.fe.apple-dns.net
+0.0.0.0 p38-content.icloud.com
+0.0.0.0 p38-escrowproxy.fe.apple-dns.net
 0.0.0.0 p38-escrowproxy.icloud.com
 0.0.0.0 p38-fmfmobile.fe.apple-dns.net
 0.0.0.0 p38-fmfmobile.icloud.com
